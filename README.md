@@ -25,15 +25,6 @@
 - **Middleware**: Smart contract interaction layer
 - **Liquidity Pools**: Uniswap integration for wQubic/ETH trading
 
-### Fee Distribution Model
-
-```
-Bridge Transaction Fees:
-├── 50% → Vottun (Operator)
-├── 50% → Smart Contract CFF Winner
-└── 40% → Locked in Uniswap LP (from total fees)
-```
-
 ## 💰 Economic Model
 
 ### Annual Maintenance Fee
