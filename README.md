@@ -1,4 +1,4 @@
-# QBridge - Qubic to Ethereum Cross-Chain Bridge
+# QBridge - Maintenance Proposal
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/status-Proposal-orange.svg)]()
