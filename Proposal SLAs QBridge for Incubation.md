@@ -3,10 +3,13 @@
 ## Proposal
 Approve a 12-month continuation agreement between Vottun (“Operator”) and the Qubic Incubation Program (“Client”) to operate and maintain the non-custodial cross-chain Qubic ↔ Ethereum bridge (“QBridge”), including validator services, APIs, and middleware. Terms summarized below.
 
+Send 30,000 USDT +5% if paid in QUBIC to Identity `BQARESULJVFAYAFSLATVPCYKDGTCEEQSAZHWLXCOQFRAHFSZWTWJUJLDCSNJ` to fund the 12‑month maintenance of QBridge (≈ 12.56B QUBIC at MEXC; ≈ 13.19B incl. +5%).
+
+Additionally, request the Incubation Program or its market maker to seed an initial Uniswap wQubic/ETH pool by bridging approximately $25,000 in QUBIC paired with ETH via QBridge (≈ 10.47B QUBIC at MEXC). Liquidity remains under Incubation/MM ownership (they capture fees and may withdraw at any time). This is separate from the 30,000 USDT maintenance fee.
+
 > Option 0: no  
 > Option 1: yes, approve the continuation agreement as outlined
 
-Send 30,000 USDT to EVM address `0x9684fe1eC8829f72c9b6f4CF2ca81A1a81e8bff0` to fund the 12‑month maintenance of QBridge.
 
 ## How We Used Past Funding
 
